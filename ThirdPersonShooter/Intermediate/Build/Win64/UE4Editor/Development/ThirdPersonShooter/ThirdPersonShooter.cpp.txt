@@ -1,0 +1,2 @@
+D:\Unreal Projects\ThirdPersonShooter\ThirdPersonShooter\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonShooter\Definitions.ThirdPersonShooter.h
+D:\Unreal Projects\ThirdPersonShooter\ThirdPersonShooter\Source\ThirdPersonShooter\ThirdPersonShooter.h

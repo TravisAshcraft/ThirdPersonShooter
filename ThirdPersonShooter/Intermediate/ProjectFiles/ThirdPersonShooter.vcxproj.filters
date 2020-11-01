@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ThirdPersonShooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{33769DAC-A24A-448D-8741-730EF01FD5C5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPersonShooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPersonShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{714F5622-999D-4309-9D0A-54D7C6E0FC7C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ThirdPersonShooter">
+      <UniqueIdentifier>{0F21D51B-1E04-4043-BB9E-3A84A4178A4F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPersonShooter\ThirdPersonShooter.Build.cs">
+      <Filter>Source\ThirdPersonShooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ThirdPersonShooter\ThirdPersonShooter.cpp">
+      <Filter>Source\ThirdPersonShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPersonShooter\ThirdPersonShooter.h">
+      <Filter>Source\ThirdPersonShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThirdPersonShooter\ThirdPersonShooterGameModeBase.cpp">
+      <Filter>Source\ThirdPersonShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPersonShooter\ThirdPersonShooterGameModeBase.h">
+      <Filter>Source\ThirdPersonShooter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
